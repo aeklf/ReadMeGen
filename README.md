@@ -10,7 +10,7 @@ Application can be invoked using the following command:
 node index.js
 ```
 
-You can view a video of the deployed application here: (TBC)
+You can view a video of the deployed application in the video folder of the repository.
 
 # User Story
 
